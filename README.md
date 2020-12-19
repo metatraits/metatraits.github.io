@@ -1,2 +1,2 @@
-# metatraits.github.io
+# metatraits
 Metatraits
